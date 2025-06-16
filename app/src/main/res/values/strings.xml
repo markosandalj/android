@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Digimon list</string>
+    <string name="network_offline">You are offline</string>
+    <string name="view_on_wiki">View on Wiki</string>
+    <string name="digimon_detail_title">Digimon Details</string>
+    <string name="share">Share</string>
+</resources>

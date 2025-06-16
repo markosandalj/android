@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista digimona</string>
+    <string name="network_offline">Aplikacija je offline</string>
+    <string name="view_on_wiki">Otvori Wiki</string>
+    <string name="digimon_detail_title">Detalji Digimona</string>
+    <string name="share">Share</string>
+</resources>

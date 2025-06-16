@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006852612835",
+    "project_id": "android-labosi-8793d",
+    "storage_bucket": "android-labosi-8793d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006852612835:android:fe2bd56764bf65fff79bd6",
+        "android_client_info": {
+          "package_name": "com.example.digimonlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCbSc30uFNj8cke_jdIyTgrWkEI7lIE1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
